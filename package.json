@@ -1,6 +1,6 @@
 {
   "name": "weather-task",
-  "homepage": "https://github.com/Iamam786/weather-task",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
